@@ -1,0 +1,69 @@
+login
+log in
+signin
+sign in
+signup
+sign up
+register
+registration
+iniciar sesion
+iniciar sesión
+registrarse
+crear cuenta
+acceso
+inloggen
+aanmelden
+registreren
+einloggen
+anmelden
+registrieren
+connexion
+se connecter
+s'inscrire
+accedi
+accedere
+registrati
+type="password"
+name="password"
+id="password"
+placeholder="*login*"
+placeholder="*password*"
+placeholder="*contrase*"
+placeholder="*wachtwoord*"
+placeholder="*passwort*"
+value="*login*"
+value="*sign*"
+>*login*<
+>*sign*<
+profile
+perfil
+account
+cuenta
+dashboard
+panel
+my-account
+mi-cuenta
+user
+usuario
+settings
+configuracion
+configuración
+mon-compte
+mein-konto
+mijn-account
+profiel
+name="username"
+id="username"
+name="email"
+id="email"
+placeholder="*perfil*"
+placeholder="*profile*"
+placeholder="*usuario*"
+placeholder="*username*"
+value="*profile*"
+value="*account*"
+>perfil<
+>profile<
+>dashboard<
+>mi cuenta<
+>my account<

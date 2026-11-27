@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'com.rh4ps00dy'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'net.portswigger.burp.extender:burp-extender-api:2.3'
+    implementation 'org.brotli:dec:0.1.2'
+}
+
+jar {
+    from {
+        configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+    }
+}
