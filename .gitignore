@@ -1,0 +1,21 @@
+# Compiled Java & Build Artifacts
+*.class
+build/
+bin/
+.gradle/
+.tmp_brotli/
+
+# Packaged Extension JAR (distributed via GitHub Releases)
+IntruderX.jar
+
+# IDE & Editor Files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS Files
+.DS_Store
+Thumbs.db
